@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<curriculo>
+    <dados_pessoais>
+        <nome>Elon Musk</nome>
+        <data_nascimento>01\01\1970</data_nascimento>
+        <email>elon@mail.com</email>
+        <telefone>(83)99999-9999</telefone>
+        <endereco>
+            <rua>Av 1º de Maio</rua>
+            <cidade>João Pessoa, PB</cidade>
+            <bairro>PB</bairro>
+        </endereco>
+    </dados_pessoais>
+    
+    <dados_profissionais>
+        <experiencia>
+            <spacex>CEO e CTO - 2016 até hoje</spacex>
+            <tesla>CEO - 2014 até hoje</tesla>
+        </experiencia>
+        <competencias>
+            <lang>JavaScript, HTML, CSS e XML</lang>
+        </competencias>
+    
+    </dados_profissionais>
+    <dados_academicos>
+        <mestrado> Instituto Federal de Educação, Ciência e Tecnologia da Paraíba</mestrado>
+        <tempo_mestrado> Mestrado profissional em Informática - 2016 até hoje </tempo_mestrado>
+        <graduacao> Instituto Federal de Educação, Ciência e Tecnologia da Paraíba</graduacao>
+        <tempo_bacharelado>Curso Superior em Tecnologia para Sistemas de Internet - 2010 a 2013 </tempo_bacharelado>
+    </dados_academicos>
+</curriculo>
